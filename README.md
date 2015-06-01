@@ -3,4 +3,6 @@
 
 ![](![download 3](https://cloud.githubusercontent.com/assets/883126/6951690/1cb89078-d88b-11e4-9647-564397c468bb.png)
 
+If you were wondering what the image above originally was, see [the relevant commit](https://github.com/stephenplusplus/i-politely-accept-pull-requests-to-this-repo/commit/ef7978ffe58e319d5feea69204cd167339a9e512).
+
 :smile: Hello
